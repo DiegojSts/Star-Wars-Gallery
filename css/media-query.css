@@ -1,0 +1,40 @@
+/**/
+/**/
+/**/
+/**/
+
+@media (min-width: 375px) and (max-width: 500px) {
+
+
+    .first-section {
+        height: 66%;
+        width: 100%;
+        gap: 10px;
+    }
+
+    img {
+        width: 200%;
+        height: 200%;
+        
+    }
+
+    .header {
+        height: 15vh;
+        background-color: black;
+        color: white;
+    }
+
+    .main {
+        height: 50vh;
+       
+
+    }
+
+    .title {
+        font-size: 2em;
+    }
+
+    .switch {
+        left: 80% !important;
+    }
+}
